@@ -1,6 +1,6 @@
 body{
     
-    margin-right: 20%;
+  margin-right: 20%;
     margin-left: 20%;
     margin-top: 1%;
     margin-bottom: 1%;
@@ -8,7 +8,7 @@ body{
     background-color: rgb(197, 185, 223);
     background-image: url(VALORANT-Clove.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 130%;
     background-attachment: fixed;
     
     
@@ -40,6 +40,7 @@ main{
     background-position-x: center;
     background-repeat: no-repeat;
     background-attachment:fixed;
+    backround-size: cover;
     text-align: left;
     color: rgb(7, 6, 6);
     background-blend-mode: overlay;
