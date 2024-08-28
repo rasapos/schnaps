@@ -1,0 +1,96 @@
+body{
+    
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-family: 'VALORANT', sans-serif;
+    background-color: rgb(197, 185, 223);
+    background-image: url(VALORANT-Clove.jpg);
+    background-repeat: no-repeat;
+    background-size: 130%;
+    background-attachment: fixed;
+    
+    
+}
+header{
+    border: 3px; border-radius: 20px;
+    font-size: 35px;
+    padding: 2%;
+    background-color:black;
+    transition:0.5s;
+    background-image: url(headerrr.jfif);
+    background-attachment:local;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+h1{
+    text-align: center;
+    color: white;
+    
+    
+}
+main{
+    border: 1px solid; border-radius: 20px;border-color: rgb(0, 0, 0);
+    background-color: hsl(0, 9%, 75%);
+    padding: 25%;
+    background-image: url(back.png);
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    text-align: left;
+    color: rgb(7, 6, 6);
+    background-blend-mode: overlay;
+}
+
+footer{
+    border: 3px; border-radius: 10px;
+    padding: 1%;
+    text-align: center;
+    background-color:black;
+    color: white
+    }
+
+#img2{
+   float: left;
+   margin-left:5%;
+   margin-top: 3%;     
+    
+}
+.navbar{
+    
+    padding: 1%;
+    font-size: 30px;
+    transition: 1s;
+    font-style:normal;
+    text-decoration: none;
+    text-align: center;
+    background-color:black;
+    border: 3px; border-radius: 10px;
+   
+}
+.acko{
+    text-decoration: none;
+    color:white;
+}
+
+.navbar :hover{
+
+    
+    color: rgb(157, 169, 229);
+    font-size: 35px;
+    transition:0.5s;
+    }
+.fa-brands.fa-youtube.fa-2x{
+    color: white;
+}
+.fa-brands.fa-discord.fa-2x{
+    color:white;
+}
+.fa-brands.fa-instagram.fa-2x{
+    color:white;
+}
+
+
