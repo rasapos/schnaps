@@ -40,7 +40,7 @@ main{
     background-position-x: center;
     background-repeat: no-repeat;
     background-attachment:fixed;
-    backround-size: cover;
+    background-size: cover;
     text-align: left;
     color: rgb(7, 6, 6);
     background-blend-mode: overlay;
