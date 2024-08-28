@@ -9,7 +9,7 @@ body{
     background-image: url(VALORANT-Clove.jpg);
     background-repeat: no-repeat;
     background-size: 130%;
-    background-attachment: fixed;
+    background-attachment: cover;
     
     
 }
